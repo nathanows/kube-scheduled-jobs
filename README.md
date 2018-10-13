@@ -13,7 +13,8 @@ Heroku provides a free add-on that allows you to quickly and easily schedule rec
 
 - [ ] Run a recurring scheduled job based on an existing Deployment with no additional app config required.
 - [ ] Run a recurring scheduled job based on any container in a Container Registry with independent config.
+- [ ] Manage scheduled jobs via a UI.
+- [ ] Manage scheduled jobs via kubectl.
 - [ ] Access logs for all jobs.
-- [ ] Manage scheduled jobs via a UI or CLI.
 - [ ] Easily visualize recent job run times and statuses in a monitoring dashboard.
 - [ ] Exposed Prometheus `/metrics` scrape endpoint that individual jobs can push metrics to.
