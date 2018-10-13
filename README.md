@@ -1,5 +1,5 @@
 # KubeScheduledJob
-_`kube-scheduled-job` is a Kubernetes job scheduler that is easy to use and manage._
+An easy to use, easy to manage, Kubernetes job scheduler.
 
 ## Origin
 
